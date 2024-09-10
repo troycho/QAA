@@ -149,3 +149,8 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# Other
+slurm-out/
+genome-files/
+Mus_musculus.GRCm39.dna.ens112.STAR_2.7.11b/
